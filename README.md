@@ -1,4 +1,4 @@
-# Personal Portfolio Website - CS1303 Assignment 1
+# Personal Portfolio Website
 
 **Author:** Sai Jaswanth Vankadara  
 **Roll Number:** 24CSB0B82  
